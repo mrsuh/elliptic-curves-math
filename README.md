@@ -1,1 +1,1 @@
-Little library for math in elliptic curves. Used for thesis project.
+Little library for elliptic curves math. Used for thesis project.
