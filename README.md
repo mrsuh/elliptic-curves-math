@@ -1,1 +1,4 @@
-Little library for elliptic curves math. Used for thesis project.
+Elliptic curves math library 
+============================
+
+ Extends: GMP Lib(big numbers math)
